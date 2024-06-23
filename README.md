@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-http://47.116.204.106/time/?sdk=Htest2
-<iframe src="https://example.com" width="600" height="400">
-        抱歉，您的浏览器不支持内嵌框架(iframe)。
-    </iframe>
+![](http://47.116.204.106/time/?sdk=Htest2)
